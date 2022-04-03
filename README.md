@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/96681905/161448799-85bac479-103a-40c5-8388-48202282cf70.jpg)
 
-<h1 align="center">Hi 👋, I'm Dipak Mali</h1>
+<h1 align="center">Hi 👋, I'm Dipak</h1>
 <h3 align="center">
 
 I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!</h3>
