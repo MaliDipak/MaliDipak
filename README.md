@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malidipak&label=Profile%20views&color=0e75b6&style=flat" alt="malidipak" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dipakma84471679" target="blank"><img src="https://img.shields.io/twitter/follow/dipakma84471679?logo=twitter&style=for-the-badge" alt="dipakma84471679" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
