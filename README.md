@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Mali</h1>
 <h3 align="center">I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96681905/161447768-5cf02f4c-c2ee-46f0-851e-ca0835c613a2.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96681905/161447768-5cf02f4c-c2ee-46f0-851e-ca0835c613a2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malidipak&label=Profile%20views&color=0e75b6&style=flat" alt="malidipak" /> </p>
 
