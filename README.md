@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/malidipak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malidipak" height="30" width="40" /> <span> LinkedIn </span> </a>
-<a href="https://instagram.com/mr_malidipak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_malidipak" height="30" width="40" /> <span> Instagram </span> </a>
+<a href="https://instagram.com/__dipakmali__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_malidipak" height="30" width="40" /> <span> Instagram </span> </a>
 <a href="https://www.hackerrank.com/dipakcmali2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipakcmali2002" height="30" width="40" /> <span> HackerRank </span></a>
 </p>
 <br>
