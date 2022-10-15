@@ -34,7 +34,7 @@
 
 - 📫 How to reach me, **thedipakmali@gmail.com**
 
-- 📄 Know about my experiences, [**Resume**](https://malidipak.github.io/portfolio/Dipak_Mali-Resume.pdf)
+- 📄 Know about my experiences, [**Resume**](https://github.com/MaliDipak/MaliDipak/files/9793004/MaliDipak.s.Resume.pdf)
 
 <br>
 
