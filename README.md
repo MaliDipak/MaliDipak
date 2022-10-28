@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for help with [**IDE Project**](https://github.com/MaliDipak/Integrated-Development-Environment)
 
-- 👨‍💻 All of my projects are available at [**Website**](https://malidipak.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [**Website**](https://dipakmali.me/)
 
 - 💬 Ask me about **OOPs, Data Structure**
 
