@@ -24,21 +24,15 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Android Development**
-
 - 🤝 I’m looking for help with [**IDE Project**](https://github.com/MaliDipak/Integrated-Development-Environment)
 
-- 👨‍💻 All of my projects are available at [**Website**](https://dipakmali.me/)
-
-- 💬 Ask me about **OOPs, Data Structure**
+- 💬 Ask me about **OOPs, Data Structure, Data Science**
 
 - 📫 How to reach me, **thedipakmali@gmail.com**
 
 - 📄 Know about my experiences, [**Resume**](https://github.com/MaliDipak/MaliDipak/files/9793004/MaliDipak.s.Resume.pdf)
 
 <br>
-
-
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
