@@ -8,11 +8,15 @@ I'm a passionate self-taught developer currently pursuing a Bachelor of Technolo
       src="https://komarev.com/ghpvc/?username=malidipak&style=for-the-badge"></a>
 </div>
 
+<img src="https://github.com/MaliDipak/MaliDipak/assets/96681905/679af780-94f8-4090-914a-38413dab2f1d" alt="Interests Image" align="right" width="30%"/>
+
 ### My Interests:
 
 - Data Science & Machine Learning
 - Full Stack Web Development
 - Open Source Enthusiast
+
+
 
 ### Things I code with
 
