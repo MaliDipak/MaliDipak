@@ -4,8 +4,7 @@ I'm a passionate self-taught developer currently pursuing a Bachelor of Technolo
 
 <br>
 <div align="left">
-  <img src='https://img.shields.io/github/followers/malidipak?logo=Github&style=for-the-badge'><img
-    src="https://img.shields.io/github/stars/malidipak?style=for-the-badge"><a href="https://github.com/malidipak/"><a href="https://github.com/malidipak/"><img
+  <img src='https://img.shields.io/github/followers/malidipak?logo=Github&style=for-the-badge'><a href="https://github.com/malidipak/"><a href="https://github.com/malidipak/"><img
       src="https://komarev.com/ghpvc/?username=malidipak&style=for-the-badge"></a>
 </div>
 
