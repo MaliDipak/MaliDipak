@@ -28,7 +28,7 @@ I'm a passionate self-taught developer currently pursuing a Bachelor of Technolo
 
 🛠️ I also enjoy working on freelance projects. If you have any opportunities, feel free to [reach out](mailto:dipakm3702@gmail.com).
 
-💬 Don't hesitate to ask me anything. I'm always happy to help and share knowledge. Let's connect and learn together!
+💬  I'm always happy to help and share knowledge. Let's connect and learn together!
 
 <br>
 
